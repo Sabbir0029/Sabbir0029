@@ -1,6 +1,5 @@
 ### Hi there 👋, MD SABBIR HOSSAIN
 #### Frontend Developer || MERN Stack Developer
-![Frontend Developer || MERN Stack Developer]
 
 Hello,
 I am Md. Sabbir Hossain, a skilled and professional Full-stack web developer as well as a React developer. I have been working in these fields for a while and have gained much experience. I only need a chance to prove my worthiness. I enjoy working online.
